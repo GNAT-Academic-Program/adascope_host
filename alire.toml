@@ -7,6 +7,7 @@ authors = ["Jean-Sebastien Demers", "Anne-Sophie Cusson", "Florian Koudjonou", "
 website = "https://github.com/GNAT-Academic-Program/adascope_host"
 maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
 maintainers-logins = ["ohenley"]
+tags = ["oscilloscope", "ui"]
 
 executables = ["user_interface"]
 
