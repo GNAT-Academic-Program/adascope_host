@@ -23,7 +23,7 @@
 These roles may evolve or change throughout the project, but we have decided not to start the project with very strict roles.
 
 ## Related Repo
-[Firmware repository](https://github.com/AdaScope/firmware)
+[Firmware repository](https://github.com/GNAT-Academic-Program/adascope_target)
 
 ## Documentation
 
