@@ -1,8 +1,10 @@
 name = "adascope_host"
-description = "Shiny new project"
-version = "0.1.0-dev"
+description = "User Interface portion of the Adascope project"
+version = "1.0.0"
+licenses = "BSD-3-Clause"
 
-authors = ["Olivier Henley"]
+authors = ["Jean-Sebastien Demers", "Anne-Sophie Cusson", "Florian Koudjonou", "Basma Kaanane"]
+website = "https://github.com/GNAT-Academic-Program/adascope_host"
 maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
 maintainers-logins = ["ohenley"]
 
