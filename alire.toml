@@ -1,0 +1,12 @@
+name = "adascope_host"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Olivier Henley"]
+maintainers = ["Olivier Henley <olivier.henley@gmail.com>"]
+maintainers-logins = ["ohenley"]
+
+executables = ["user_interface"]
+
+[[depends-on]] 
+aicwl = "3.24.2"   
